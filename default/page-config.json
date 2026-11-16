@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-simpler.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Edición de muestras con Simpler | Lynx Pardelle",
+    "description": "Convierte una grabación en material para tocar desde MIDI. Usa Simpler para seleccionar y dividir una muestra, y combina sus fragmentos para escribir una frase nueva.",
+    "canonical": "https://masterclass-simpler.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-midi.webp"
+    }
+  }
+}
