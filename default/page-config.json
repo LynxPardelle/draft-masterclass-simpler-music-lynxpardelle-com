@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Edición de muestras con Simpler | Lynx Pardelle",
-    "description": "Convierte una grabación en material para tocar desde MIDI. Usa Simpler para seleccionar y dividir una muestra, y combina sus fragmentos para escribir una frase nueva.",
+    "title": "Masterclass de Simpler y edición de muestras | Lynx Pardelle",
+    "description": "Aprende a cargar, editar y dividir muestras con Simpler en Ableton Live. Practica cómo reorganizar breaks y cortes rítmicos de voz.",
     "canonical": "https://masterclass-simpler.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-simpler-r2-c434909534752fdf.webp",
+      "title": "Masterclass de Simpler y edición de muestras | Lynx Pardelle",
+      "description": "Aprende a cargar, editar y dividir muestras con Simpler en Ableton Live. Practica cómo reorganizar breaks y cortes rítmicos de voz.",
+      "url": "https://masterclass-simpler.music.lynxpardelle.com/",
+      "imageAlt": "Controlador y monitor de edición de una muestra de audio."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de Simpler y edición de muestras | Lynx Pardelle",
+      "description": "Aprende a cargar, editar y dividir muestras con Simpler en Ableton Live. Practica cómo reorganizar breaks y cortes rítmicos de voz.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-simpler-r2-c434909534752fdf.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-simpler.music.lynxpardelle.com/#webpage",
+        "name": "Edición de muestras con Simpler",
+        "description": "Aprende a cargar, editar y dividir muestras con Simpler en Ableton Live. Practica cómo reorganizar breaks y cortes rítmicos de voz.",
+        "url": "https://masterclass-simpler.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-simpler.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-simpler.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Edición de muestras con Simpler",
+        "description": "Aprende a cargar, editar y dividir muestras con Simpler en Ableton Live. Practica cómo reorganizar breaks y cortes rítmicos de voz.",
+        "url": "https://masterclass-simpler.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-simpler-r2-c434909534752fdf.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-simpler.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
